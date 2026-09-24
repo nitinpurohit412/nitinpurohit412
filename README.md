@@ -20,7 +20,7 @@
 * 🔭 Currently working on **[Dev Tinder](https://github.com/nitinpurohit412/devTinder)**
 * 🌱 Currently learning **Node.js & Backend Development**
 * 💻 Interested in **Frontend & Full-Stack Web Development**
-* 🧠 Currently improving my **JavaScript & DSA skills**
+* 🧠 Improving my **JavaScript & DSA skills**
 * ⚡ I enjoy building projects and learning by doing
 * 📍 India
 * 📫 Reach me at **[nitinpurohit412@gmail.com](mailto:nitinpurohit412@gmail.com)**
@@ -55,19 +55,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/nitinpurohit412">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=nitinpurohit412&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/nitinpurohit412">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinpurohit412&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -75,42 +62,6 @@
     <img src="https://streak-stats.demolab.com/?user=nitinpurohit412&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/nitinpurohit412">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinpurohit412&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/nitinpurohit412">
-    <img src="https://github-profile-trophy.vercel.app/?username=nitinpurohit412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/nitinpurohit412/devTinder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nitinpurohit412&repo=devTinder&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
-<br/>
-
-> ⭐ More projects are available on my [GitHub profile](https://github.com/nitinpurohit412?tab=repositories)
 
 ---
 
@@ -136,15 +87,42 @@
 
 ---
 
-## 💡 Currently
+## 🧑‍💻 Currently
 
-```text
-Frontend Development  ███████████████░░░░░  Learning
-JavaScript             ████████████████░░░░  Improving
-Node.js                ████████████░░░░░░░░  Learning
-DSA                    ██████████░░░░░░░░░░  Practicing
-Full-Stack Development ███████████░░░░░░░░░  Building
-```
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 Learning
+
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+* Data Structures & Algorithms
+* Full-Stack Development
+
+</td>
+
+<td width="50%">
+
+### 🔨 Building
+
+* 🚀 **Dev Tinder**
+* 🌐 Full-Stack Web Applications
+* ⚛️ React Projects
+* 🔌 REST APIs
+* 🗄️ Backend & Database Projects
+
+</td>
+</tr>
+</table>
+
+### 🎯 My Current Focus
+
+> **Learn → Build → Practice → Improve → Repeat**
+
+I'm currently focused on becoming a stronger **Full-Stack Developer** by building real-world projects, improving my JavaScript fundamentals, learning backend development, and consistently practicing DSA.
 
 ---
 
@@ -153,5 +131,5 @@ Full-Stack Development ███████████░░░░░░░░
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  ⭐ Thanks for visiting my profile!
 </p>
