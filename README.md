@@ -1,27 +1,157 @@
-<h1 align="center">Hi 👋, I'm Nitin Purohit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Nitin Purohit</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinpurohit412" alt="nitinpurohit412" /></a> </p>
+<h3 align="center">
+  Frontend Developer • Full-Stack Developer in Progress • JavaScript Enthusiast
+</h3>
 
-- 🔭 I’m currently working on [Dev Tinder](https://github.com/nitinpurohit412/devTinder)
-
-- 🌱 I’m currently learning **Node Js**
-
-- 💬 Ask me about **Front End Dev**
-
-- 📫 How to reach me **nitinpurohit412@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nitin_purohit_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitin_purohit_2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitin_purohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin_purohit" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/nitinpurohit412">
+    <img src="https://komarev.com/ghpvc/?username=nitinpurohit412&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/nitinpurohit412?tab=followers">
+    <img src="https://img.shields.io/github/followers/nitinpurohit412?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinpurohit412&show_icons=true&locale=en&layout=compact" alt="nitinpurohit412" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinpurohit412&show_icons=true&locale=en" alt="nitinpurohit412" /></p>
+* 🔭 Currently working on **[Dev Tinder](https://github.com/nitinpurohit412/devTinder)**
+* 🌱 Currently learning **Node.js & Backend Development**
+* 💻 Interested in **Frontend & Full-Stack Web Development**
+* 🧠 Currently improving my **JavaScript & DSA skills**
+* ⚡ I enjoy building projects and learning by doing
+* 📍 India
+* 📫 Reach me at **[nitinpurohit412@gmail.com](mailto:nitinpurohit412@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinpurohit412&" alt="nitinpurohit412" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+</p>
+
+### 🧩 Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/nitinpurohit412">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=nitinpurohit412&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/nitinpurohit412">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinpurohit412&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <a href="https://github.com/nitinpurohit412">
+    <img src="https://streak-stats.demolab.com/?user=nitinpurohit412&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/nitinpurohit412">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinpurohit412&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/nitinpurohit412">
+    <img src="https://github-profile-trophy.vercel.app/?username=nitinpurohit412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/nitinpurohit412/devTinder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nitinpurohit412&repo=devTinder&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<br/>
+
+> ⭐ More projects are available on my [GitHub profile](https://github.com/nitinpurohit412?tab=repositories)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/nitinpurohit412">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+</a>
+
+<a href="https://www.instagram.com/nitin_purohit_2">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
+</a>
+
+<a href="https://leetcode.com/nitin_purohit">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" alt="LeetCode"/>
+</a>
+
+</p>
+
+📧 **Email:** [nitinpurohit412@gmail.com](mailto:nitinpurohit412@gmail.com)
+
+---
+
+## 💡 Currently
+
+```text
+Frontend Development  ███████████████░░░░░  Learning
+JavaScript             ████████████████░░░░  Improving
+Node.js                ████████████░░░░░░░░  Learning
+DSA                    ██████████░░░░░░░░░░  Practicing
+Full-Stack Development ███████████░░░░░░░░░  Building
+```
+
+---
+
+<p align="center">
+  <i>“Build. Break. Learn. Repeat.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
